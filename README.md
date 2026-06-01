@@ -1,4 +1,4 @@
-# Whois-Lookup-Tool
+# VirusTotal-Domain-Lookup
 Use this tool to look up domain information using the VirusTotal API.
 
 When you run the script, you will be prompted to enter your VirusTotal API key. After that, enter each domain you want to look up.
