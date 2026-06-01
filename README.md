@@ -7,6 +7,7 @@ You can continue entering domains one at a time. When you are finished, enter `Q
 
 Example output:
 
+```text
 ==================================================================
 Categories: Example Category
 Malicious count: 0
@@ -26,3 +27,4 @@ SSL valid until: 2025-01-01 00:00:00
 Subdomains: app.example.com, test.example.com, dev.example.com
 Historical resolutions: 192.0.2.10 (2024-01-01 00:00:00 UTC), 198.51.100.25 (2023-06-01 00:00:00 UTC), 203.0.113.50 (2022-01-01 00:00:00 UTC)
 ==================================================================
+```
