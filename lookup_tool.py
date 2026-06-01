@@ -211,3 +211,4 @@ while True:
     print(f"Historical resolutions: {resolutions_display}")
     print("==================================================================")
     print()
+    
